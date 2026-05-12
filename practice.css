@@ -1,0 +1,273 @@
+.Uber {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  margin-right: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: opacity 0.15s;
+}
+
+.Uber:hover {
+opacity: 0.8;
+}
+
+.Uber:active {
+opacity: 0.6;
+}
+
+
+.Amazon {
+  background-color: #F9D84C;
+  color: #312000;
+  border: none;
+  border-radius: 18px;
+  margin-right: 8px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.Amazon:hover {
+background-color: #F5C201;
+}
+
+.Amazon:active {
+opacity: 0.6;
+}
+
+.Github {
+  background-color: #55A459;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-right: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: box-shadow 0.15s, Opacity 0.15s;
+}
+
+.Github:hover {
+box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.Github:active {
+opacity: 0.6;
+}
+
+.Cart {
+  background-color:  #F9D84C;
+  color: black;
+  border: none;
+  border-radius: 18px;
+  margin-right: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  cursor: pointer;
+  font-weight: 550;
+  transition: background-color 0.15s;
+}
+
+.Cart:hover {
+background-color: #F5C201;
+}
+
+.Cart:active {
+opacity: 0.6;
+}
+
+.Buy {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border: none;
+  border-radius: 18px;
+  margin-right: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  cursor: pointer;
+  font-weight: 550;
+  transition: background-color 0.15s;
+}
+
+.Buy:hover {
+background-color: #d56b01;
+}
+
+.Buy:active {
+opacity: 0.6;
+}
+
+.back{
+color: rgb(0, 113, 133); 
+transition: color 0.15s;
+}
+
+.back:hover{
+color: #d56b01;
+}
+
+.stretch {
+  background-color: #017501;
+  color: white;
+  border: none;
+  margin-right: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  cursor: pointer; 
+  transition:padding 0.6s;
+}
+
+.stretch:hover {
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 12px;
+padding-bottom: 12px;
+}
+
+.shadow {
+  background-color: #017501;
+  color: white;
+  border: none;
+  margin-right: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  cursor: pointer; ;
+  box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.3);
+}
+
+.shadow:active{
+margin-left: 4px;
+margin-bottom: 8px;
+box-shadow: none;
+}
+
+.one{
+  background-color: #017501;
+  color: white;
+  border: none;
+  margin-right: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  cursor: pointer; 
+  transition: padding 0.15s;
+}
+
+.one:hover {
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.two {
+  background-color: #017501;
+  color: white;
+  border: none;
+  margin-right: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  cursor: pointer; 
+  transition: padding 0.15s;
+}
+
+.two:hover {
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.three{
+  background-color: #017501;
+  color: white;
+  border: none;
+  margin-right: 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  cursor: pointer; 
+  transition: padding 0.15s;
+}
+
+.three:hover {
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.tahoma{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 10px;
+}
+
+.biggest{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.tuesday{
+color: #DB473C;
+font-size: 15px;
+font-style: italic;
+}
+
+.html{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-bottom: 0px;
+}
+
+.pro{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 14px;
+color:#959595;
+margin-top: 3px;
+}
+
+.skills{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+width:280px;
+}
+
+.shopping{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.apple{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.learn{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+color: #045faa;
+}
+
+.model{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 90px;
+}
+
+.order{
+  font-family: Arial, Helvetica, sans-serif;
+}
