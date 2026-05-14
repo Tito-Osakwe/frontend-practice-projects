@@ -6,10 +6,6 @@ A growing collection of HTML and CSS exercises I'm building as I learn frontend 
 
 [View live](https://tito-osakwe.github.io/frontend-practice-projects/)
 
-## 📸 Preview
-
-![Preview](./screenshot.png)
-
 ## 📖 About
 
 This repo is part of my structured journey into frontend development. Rather than starting with one large project, I'm working through smaller, focused exercises — each one isolating a specific HTML or CSS concept so I can practice it deliberately. The goal is depth on the fundamentals: clean markup, predictable styling, responsive layouts, and an eye for clear, simple UI.
